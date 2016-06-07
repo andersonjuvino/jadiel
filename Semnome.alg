@@ -1,8 +1,8 @@
-algoritmo "semnome"
-// Função :
+algoritmo "calculadora_com_conversor"
+// FunÃ§Ã£o :
 // Autor :
 // Data : 06/06/2016
-// Seção de Declarações 
+// SeÃ§Ã£o de DeclaraÃ§Ãµes 
 var
 n1,n2,soma,subt,divi,mult:real
 txcambio,vldolar,vlreal:real
@@ -16,8 +16,8 @@ leia(n2)
              subt:=n1 * n2
               divi:=n1 * n2
               escreval ("soma=",soma)
-               escreval ("multiplicaçao=",mult)
-                escreval ("subtraçao=",subt)
+               escreval ("multiplicaÃ§ao=",mult)
+                escreval ("subtraÃ§ao=",subt)
                  escreval ("divisao=",divi)
                  escreva("informe a quantidade de dolares no hospede:")
  leia(vldolar)
