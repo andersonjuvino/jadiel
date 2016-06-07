@@ -7,9 +7,9 @@ var
 n1,n2,soma,subt,divi,mult:real
 txcambio,vldolar,vlreal:real
 inicio
- escreva ("informe um numero:")
+ escreva ("informe um numero!!!")
 leia(n1)
-   escreva("informe outro numero:")
+   escreva("informe outro numero!!!")
 leia(n2)
             soma:=n1 + n2
             mult:=n1 * n2
